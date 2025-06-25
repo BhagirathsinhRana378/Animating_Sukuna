@@ -6,6 +6,7 @@
 Built using **React**, **GSAP (GreenSock Animation Platform)**, and **Tailwind CSS**, this project delivers smooth animations and powerful visuals to capture Sukuna's intense energy.
 
 ---
+## Live-at-🔗:https://bhagirathsinhrana378.github.io/Animating_Sukuna/
 
 ## 🛠️ Built With
 
