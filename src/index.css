@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "pr";
+  src: url("/pricedown.otf"); /* ✅ This works in Vite */
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'pr', sans-serif;
+}
