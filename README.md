@@ -1,12 +1,67 @@
-# React + Vite
+# ⚡ Animating Sukuna Webpage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔥 Overview
 
-Currently, two official plugins are available:
+**Animating Sukuna** is a visually striking animated webpage dedicated to **Sukuna**, the King of Curses from *Jujutsu Kaisen*.  
+Built using **React**, **GSAP (GreenSock Animation Platform)**, and **Tailwind CSS**, this project delivers smooth animations and powerful visuals to capture Sukuna's intense energy.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React** – Component-based UI
+- 🎨 **Tailwind CSS** – Utility-first CSS framework for styling
+- 🎞️ **GSAP** – Advanced animations
+- 🖼️ Custom images of Sukuna (fan art assets)
+
+---
+
+## ✨ Features
+
+- Smooth entrance and scroll-triggered animations
+- Bold visual effects and color contrast
+- Custom font integration for Sukuna-themed design
+- Responsive layout (mobile support coming soon)
+- Clean, maintainable React + Vite codebase
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **GitHub Pages** at:
+
+
+
+---
+
+## 📁 Folder Structure (Simplified)
+Animating_Sukuna/
+├── public/
+│ └── sukuna-images, fonts, etc.
+├── src/
+│ ├── components/
+│ ├── index.css
+│ └── main.jsx
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
+
+---
+
+## 🙏 Credits
+
+All characters and imagery belong to the creators of **Jujutsu Kaisen**.  
+This project is made for learning and tribute purposes only.
+
+---
+
+## 💬 Feedback
+
+If you have any suggestions or want to contribute, feel free to open an issue or pull request.
+
+---
+
+> Made with passion by **Bhagirathsinh Rana** ⚔️
+
+
